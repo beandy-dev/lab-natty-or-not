@@ -1,51 +1,29 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# Topologia do Sonho
+*um experimento narrativo de terror psicológico*
 
-## 🚀 Introdução
+## Contexto do Desafio
+Este projeto foi desenvolvido como parte do Lab “Natty or Not” da DIO (Digital Innovation One), cujo objetivo é explorar o uso de IAs Generativas na criação de conteúdos que se aproximem ao máximo de produções humanas (“natty”), de forma criativa e consciente.
 
-> Woooow! Look at this 👀
+Inspirado na tendência “Natty or Not”, o desafio propõe:
+- Explorar o potencial das IAs Generativas
+- Criar um projeto autoral para compor portfólio
+- Versionar o projeto em um repositório GitHub
+- Documentar todo o processo por meio deste README
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+Repositório base do Lab:
+https://github.com/digitalinnovationone/lab-natty-or-not
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+## Descrição
+Topologia do Sonho é um projeto de criação de um e-book literário de terror psicológico com estética onírica. A obra se estrutura como um capítulo de conto longo, explorando espaços, memória e identidade a partir de uma narrativa sensorial e ambígua.
+O projeto investiga como o medo pode emergir da familiaridade distorcida, do silêncio e da percepção fragmentada, criando uma experiência de leitura que se aproxima da lógica dos sonhos.
 
-### Objetivos
+## Tecnologias Utilizadas
+- **ChatGPT** no desenvolvimento do texto a partir de diretrizes passadas por um humano
+- Editor de texto **Google Docs** para organização, revisão e estruturação do conteúdo
+  
+## Processo de Criação
+A criação partiu de uma concepção autoral humana, que definiu tema, atmosfera, cenário e limites narrativos do conto. A partir dessas diretrizes, o texto foi desenvolvido em colaboração com uma IA generativa, em um processo iterativo de expansão, refinamento de linguagem e ajuste de ritmo narrativo.
+O foco do processo esteve na construção gradual de tensão psicológica, no uso de imagens sensoriais (frio, silêncio, espaço) e na manutenção da ambiguidade entre sonho, memória e realidade. A IA foi utilizada como ferramenta de apoio criativo e editorial, sempre com curadoria e intenção humana.
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
-
-## 📒 Descrição
-Breve descrição do seu projeto
-
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
-## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## Resultados
+O resultado final é um e-book de um conto, com identidade estética definida e narrativa consistente, pronto para leitura digital ou publicação independente. O projeto demonstra a aplicação consciente de IA generativa como suporte à criação artística, sem perda de autoria conceitual, e pode ser utilizado como obra independente, peça de portfólio criativo ou ponto de partida para um universo narrativo maior.
