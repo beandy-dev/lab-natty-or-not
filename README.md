@@ -26,5 +26,4 @@ A criação partiu de uma concepção autoral humana (ou seja, minha), que defin
 O foco do processo esteve na construção gradual de tensão psicológica, no uso de imagens sensoriais (frio, silêncio, espaço) e na manutenção da ambiguidade entre sonho, memória e realidade. A IA foi utilizada como ferramenta de apoio criativo e editorial, sempre com curadoria e intenção humana.
 
 ## Resultados
-## Resultados
 O resultado final é um e-book de conto, com identidade estética definida e narrativa consistente, pronto para leitura digital ou publicação independente. O projeto demonstra o uso consciente de IA generativa como suporte à criação artística, sem perda de autoria conceitual, podendo ser utilizado como obra independente, peça de portfólio criativo ou ponto de partida para um universo narrativo maior.
